@@ -1,4 +1,8 @@
-# cecilia-portfolio
+<p align="center">
+  <img src="foto.jpg" width="220">
+</p>
+
+<h1 align="center">Cecília Noronha Almeida</h1># cecilia-portfolio
 
 # Cecília Noronha Almeida
 

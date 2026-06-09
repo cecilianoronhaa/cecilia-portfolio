@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="foto.jpg" width="220">
+  <img src="foto.jpg.jpeg" width="220">
 </p>
 
 <h1 align="center">Cecília Noronha Almeida</h1>

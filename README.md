@@ -2,7 +2,7 @@
   <img src="foto.jpg" width="220">
 </p>
 
-<h1 align="center">Cecília Noronha Almeida</h1># cecilia-portfolio
+<h1 align="center">Cecília Noronha Almeida</h1>
 
 # Cecília Noronha Almeida
 

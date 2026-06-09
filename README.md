@@ -41,7 +41,7 @@ Previsão de conclusão: 2027
 
 ## Currículo
 
-📄 [Visualizar currículo](Curriculo_Cecilia_Noronha_Almeida.pdf)
+📄 [Visualizar currículo](Curriculo_Cecilia_Noronha_Almeida.pdf.pdf)
 
 ---
 

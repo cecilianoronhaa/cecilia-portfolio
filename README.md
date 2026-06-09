@@ -28,6 +28,17 @@ Previsão de conclusão: 2027
 
 ---
 
+## Principais Resultados
+
+- Liderança de equipes em projetos de consultoria empresarial.
+- Coordenação do Processo Seletivo e Programa Trainee 2025.1.
+- Desenvolvimento de diagnósticos organizacionais para empresas.
+- Experiência em análise financeira e indicadores.
+- Participação em projetos de extensão voltados ao fortalecimento de pequenos negócios locais.
+- Organização da Semana Acadêmica de Administração da UFSJ.
+
+---
+
 # Principais Competências
 
 - Gestão de Projetos
